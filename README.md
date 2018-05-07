@@ -1,2 +1,2 @@
 # flask_site
-a web site based on python flask
+a simple web site demo based on python flask
